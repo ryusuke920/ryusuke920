@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 
 <p>
   <a href="https://atcoder.jp/users/ryusuke_h">
-<img src="https://user-images.githubusercontent.com/66785066/114270460-761e8800-9a47-11eb-909b-02df4d34a531.png" alt="AtCoder"/>
+<img src="https://user-images.githubusercontent.com/66785066/114270597-415f0080-9a48-11eb-9c6d-ce5c26af141e.png" alt="AtCoder"/>
+  </a>
+  <a href="https://twitter.com/ryusuke__h">
+<img src="https://user-images.githubusercontent.com/66785066/114270556-fb09a180-9a47-11eb-8e89-4fb32966321b.png" alt="Twitter"/>
   </a>
 </p> 
