@@ -2,6 +2,16 @@
 **ryusuke920/ryusuke920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
+
+<!--- 🔭 I’m currently working on ... -->
+- 🌱 I’m currently learning ... algorithm and datastructure
+<!--- 👯 I’m looking to collaborate on ...-->
+<!--- 🤔 I’m looking for help with ...-->
+<!--- 💬 Ask me about ...-->
+<!--- 📫 How to reach me: ...-->
+<!--- 😄 Pronouns: ...-->
+- ⚡ Fun fact: ... competitive programming🖥,  Basketball🏀,  piano🎹
+
 [![pippi_sniper](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fpippi_sniper)](https://atcoder.jp/users/ryusuke_h)
 
 [![GitHub followers](https://img.shields.io/github/followers/ryusuke920.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ryusuke920?tab=followers)
@@ -12,17 +22,7 @@ Here are some ideas to get you started:
   <img src="https://profile-counter.glitch.me/ryusuke920/count.svg" />
 </p>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ryusuke920&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryusuke920&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--- 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning ... algorithm and datastructure
-<!--- 👯 I’m looking to collaborate on ...-->
-<!--- 🤔 I’m looking for help with ...-->
-<!--- 💬 Ask me about ...-->
-<!--- 📫 How to reach me: ...-->
-<!--- 😄 Pronouns: ...-->
-- ⚡ Fun fact: ... competitive programming🖥,  Basketball🏀,  piano🎹
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryusuke920&show_icons=true&theme=highcontrast)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryusuke920&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
