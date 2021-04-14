@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/pippi-sniper/count.svg" />
+  <img src="https://profile-counter.glitch.me/ryusuke920/count.svg" />
 </p>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ryusuke920&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
