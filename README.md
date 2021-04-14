@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 [![pippi_sniper](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fpippi_sniper)](https://atcoder.jp/users/ryusuke_h)
 
 [![GitHub followers](https://img.shields.io/github/followers/ryusuke920.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ryusuke920?tab=followers)
-[![Twitter Follow](https://img.shields.io/twitter/follow/repins_ippip?style=social)](https://twitter.com/ryusuke__h)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ryusuke__h?style=social)](https://twitter.com/ryusuke__h)
 
 <p align="center"> 
   Visitor count<br>
