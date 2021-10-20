@@ -19,27 +19,50 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=ryusuke920&row=1&column=8&theme=algolia)
 
+以下、作成段階です。。。
 
+# language
 <img src="https://img.shields.io/badge/-Python-FFFF00.svg?logo=Python&style=plastic">
-<img src="https://img.shields.io/badge/-Amazon-FF9966.svg?logo=amazon&style=plastic">
+<img src="https://img.shields.io/badge/-Css3-1572B6.svg?logo=css3&style=plastic">
+
+# framework
+<img src="https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=plastic">
+<img src="https://img.shields.io/badge/-Flask-000000.svg?logo=flask&style=plastic">
+<img src="https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=plastic">
+
+# editor
 <img src="https://img.shields.io/badge/-Atom-66FF33.svg?logo=atom&style=plastic">
+
+# cloud
+
+# os
+
+
+# software
 <img src="https://img.shields.io/badge/-Blender-33CCFF.svg?logo=blender&style=plastic">
+
+# application
+<img src="https://img.shields.io/badge/-Discord-7289DA.svg?logo=discord&style=plastic">
+<img src="https://img.shields.io/badge/-Figma-F24E1E.svg?logo=figma&style=plastic">
+
+# sns
+<img src="https://img.shields.io/badge/-Facebook-4172B8.svg?logo=facebook&style=plastic">
+
+# service
+<img src="https://img.shields.io/badge/-Amazon-FF9966.svg?logo=amazon&style=plastic">
 <img src="https://img.shields.io/badge/-Apple-999999.svg?logo=apple&style=plastic">
 <img src="https://img.shields.io/badge/-Android-A4C639.svg?logo=android&style=plastic">
 <img src="https://img.shields.io/badge/-Apple%20music-FF33CC.svg?logo=apple-music&style=plastic">
-<img src="https://img.shields.io/badge/-Css3-1572B6.svg?logo=css3&style=plastic">
-<img src="https://img.shields.io/badge/-Discord-7289DA.svg?logo=discord&style=plastic">
-<img src="https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=plastic">
 <img src="https://img.shields.io/badge/-Dropbox-0061FF.svg?logo=dropbox&style=plastic">
-<img src="https://img.shields.io/badge/-Facebook-4172B8.svg?logo=facebook&style=plastic">
-<img src="https://img.shields.io/badge/-Figma-F24E1E.svg?logo=figma&style=plastic">
-<img src="https://img.shields.io/badge/-Flask-000000.svg?logo=flask&style=plastic">
-<img src="https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=plastic">
 <img src="https://img.shields.io/badge/-Github-181717.svg?logo=github&style=plastic">
 <img src="https://img.shields.io/badge/-Gmail-FFFFFF.svg?logo=gmail&style=plastic">
 <img src="https://img.shields.io/badge/-Google-FFFFFF.svg?logo=google&style=plastic">
 <img src="https://img.shields.io/badge/-Google%20chrome-FFFF99.svg?logo=google-chrome&style=plastic">
 <img src="https://img.shields.io/badge/-Google%20drive-FFFFFF.svg?logo=google-drive&style=plastic">
+
+# game
+
+
 <img src="https://img.shields.io/badge/-Heroku-430098.svg?logo=heroku&style=plastic">
 <img src="https://img.shields.io/badge/-Html5-E34F26.svg?logo=html5&style=plastic">
 <img src="https://img.shields.io/badge/-Huawei-FF0000.svg?logo=huawei&style=plastic">
