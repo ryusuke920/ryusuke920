@@ -37,6 +37,7 @@
 <img src="https://img.shields.io/badge/-Atom-66FF33.svg?logo=atom&style=plastic"> <img src="https://img.shields.io/badge/-Markdown-000000.svg?logo=markdown&style=plastic"> <img src="https://img.shields.io/badge/-Xcode-1575F9.svg?logo=xcode&style=plastic">
 
 ## cloud
+<img src="https://img.shields.io/badge/-Icloud-FFFFFF.svg?logo=icloud&style=plastic">　<img src="https://img.shields.io/badge/-Google%20drive-FFFFFF.svg?logo=google-drive&style=plastic">
 
 ## os
 <img src="https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=plastic">
@@ -58,11 +59,9 @@
 <img src="https://img.shields.io/badge/-Amazon-FF9966.svg?logo=amazon&style=plastic"> <img src="https://img.shields.io/badge/-Apple-999999.svg?logo=apple&style=plastic"> <img src="https://img.shields.io/badge/-Android-A4C639.svg?logo=android&style=plastic">
 <img src="https://img.shields.io/badge/-Apple%20music-FF33CC.svg?logo=apple-music&style=plastic"> <img src="https://img.shields.io/badge/-Dropbox-0061FF.svg?logo=dropbox&style=plastic"> <img src="https://img.shields.io/badge/-Github-181717.svg?logo=github&style=plastic">
 <img src="https://img.shields.io/badge/-Gmail-FFFFFF.svg?logo=gmail&style=plastic"> <img src="https://img.shields.io/badge/-Google-FFFFFF.svg?logo=google&style=plastic"> <img src="https://img.shields.io/badge/-Google%20chrome-FFFF99.svg?logo=google-chrome&style=plastic">
-<img src="https://img.shields.io/badge/-Google%20drive-FFFFFF.svg?logo=google-drive&style=plastic">
-<img src="https://img.shields.io/badge/-Heroku-430098.svg?logo=heroku&style=plastic"> <img src="https://img.shields.io/badge/-Huawei-FF0000.svg?logo=huawei&style=plastic"> <img src="https://img.shields.io/badge/-Icloud-FFFFFF.svg?logo=icloud&style=plastic">
-<img src="https://img.shields.io/badge/-Jira-172B4D.svg?logo=jira&style=plastic"> <img src="https://img.shields.io/badge/-Kaggle-20BEFF.svg?logo=kaggle&style=plastic"> <img src="https://img.shields.io/badge/-Trello-0079BF.svg?logo=trello&style=plastic">
-<img src="https://img.shields.io/badge/-Wikipedia-000000.svg?logo=wikipedia&style=plastic"> <img src="https://img.shields.io/badge/-Wolfram-DD1100.svg?logo=wolfram&style=plastic"> <img src="https://img.shields.io/badge/-Wolframmathematica-CCFFFF.svg?logo=wolframmathematica&style=plastic">
-<img src="https://img.shields.io/badge/-Yahoo-FF0000.svg?logo=yahoo&style=plastic">
+<img src="https://img.shields.io/badge/-Heroku-430098.svg?logo=heroku&style=plastic"> <img src="https://img.shields.io/badge/-Huawei-FF0000.svg?logo=huawei&style=plastic"> <img src="https://img.shields.io/badge/-Jira-172B4D.svg?logo=jira&style=plastic">
+<img src="https://img.shields.io/badge/-Kaggle-20BEFF.svg?logo=kaggle&style=plastic"> <img src="https://img.shields.io/badge/-Trello-0079BF.svg?logo=trello&style=plastic"><img src="https://img.shields.io/badge/-Wikipedia-000000.svg?logo=wikipedia&style=plastic">
+<img src="https://img.shields.io/badge/-Wolfram-DD1100.svg?logo=wolfram&style=plastic"> <img src="https://img.shields.io/badge/-Wolframmathematica-CCFFFF.svg?logo=wolframmathematica&style=plastic"><img src="https://img.shields.io/badge/-Yahoo-FF0000.svg?logo=yahoo&style=plastic">
 
 
 ## game
