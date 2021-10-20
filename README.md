@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ryusuke__h?style=social)](https://twitter.com/ryusuke__h)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryusuke920&show_icons=true&theme=highcontrast) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryusuke920&show_icons=true&theme=highcontrast)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryusuke920&theme=dark&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) 
 
