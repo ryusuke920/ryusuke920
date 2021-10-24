@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/-Nodemon-FFFF66.svg?logo=nodemon&style=plastic">|<img src="https://img.shields.io/badge/-Npm-CB3837.svg?logo=npm&style=plastic">|<img src="https://img.shields.io/badge/-Yarn-2C8EBB.svg?logo=yarn&style=plastic">||||
 
 ## editor
-<img src="https://img.shields.io/badge/-Visualstudiocode-007ACC.svg?logo=VisualStudioCode&style=plastic">|<img src="https://img.shields.io/badge/-Atom-66FF33.svg?logo=atom&style=plastic">|<img src="https://img.shields.io/badge/-Xcode-1575F9.svg?logo=xcode&style=plastic">|<img src="https://img.shields.io/badge/-AndroidStudio-000000.svg?logo=androidstudio&style=plastic">|<img src="https://img.shields.io/badge/-Markdown-000000.svg?logo=markdown&style=plastic">
+<img src="https://img.shields.io/badge/-VisualStudioCode-007ACC.svg?logo=VisualStudioCode&style=plastic">|<img src="https://img.shields.io/badge/-Atom-66FF33.svg?logo=atom&style=plastic">|<img src="https://img.shields.io/badge/-Xcode-1575F9.svg?logo=xcode&style=plastic">|<img src="https://img.shields.io/badge/-AndroidStudio-000000.svg?logo=androidstudio&style=plastic">|<img src="https://img.shields.io/badge/-Markdown-000000.svg?logo=markdown&style=plastic">
 :--:|:--:|:--:|:--:|:--:|
 
 ## SNS
