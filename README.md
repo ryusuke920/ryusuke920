@@ -19,8 +19,10 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=ryusuke920&row=1&column=8&theme=algolia)
 
-# 以下、作成段階です。。。2021/10/21現在
 
+
+
+<!--
 ## language
 <img src="https://img.shields.io/badge/-Python-FFFF00.svg?logo=Python&style=plastic"> <img src="https://img.shields.io/badge/-Css3-1572B6.svg?logo=css3&style=plastic"> <img src="https://img.shields.io/badge/-Html5-E34F26.svg?logo=html5&style=plastic">
 <img src="https://img.shields.io/badge/-Java-FF6600.svg?logo=java&style=plastic"> <img src="https://img.shields.io/badge/-Javascript-3399FF.svg?logo=javascript&style=plastic"> <img src="https://img.shields.io/badge/-Json-000000.svg?logo=json&style=plastic">
@@ -68,3 +70,5 @@
 <img src="https://img.shields.io/badge/-Matrix-000000.svg?logo=matrix&style=plastic"> <img src="https://img.shields.io/badge/-Nintendo-99FFFF.svg?logo=nintendo&style=plastic"> <img src="https://img.shields.io/badge/-Nintendogamecube-6A5FBB.svg?logo=nintendogamecube&style=plastic">
 <img src="https://img.shields.io/badge/-Nintendoswitch-E60012.svg?logo=nintendoswitch&style=plastic"> <img src="https://img.shields.io/badge/-Playstation-003791.svg?logo=playstation&style=plastic"> <img src="https://img.shields.io/badge/-Pokemon-3333CC.svg?logo=pokemon&style=plastic">
 <img src="https://img.shields.io/badge/-Wii-CCFFFF.svg?logo=wii&style=plastic">
+-->
+
