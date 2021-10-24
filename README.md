@@ -24,11 +24,14 @@
 :--:|:--:|:--:|:--:|:--:|:--:|:--:
 ||||||
 
-## template
+## framework
 <img src="https://img.shields.io/badge/-Node.js-FFFF66.svg?logo=node.js&style=plastic">|<img src="https://img.shields.io/badge/-Mysql-4479A1.svg?logo=mysql&style=plastic">|<img src="https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=plastic">|<img src="https://img.shields.io/badge/-Jupyter-FFFF99.svg?logo=jupyter&style=plastic">|<img src="https://img.shields.io/badge/-Flask-000000.svg?logo=flask&style=plastic">|<img src="https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=plastic">|<img src="https://img.shields.io/badge/-React-61DAFB.svg?logo=react&style=plastic">
 :--:|:--:|:--:|:--:|:--:|:--:|:--:
 <img src="https://img.shields.io/badge/-Nodemon-FFFF66.svg?logo=nodemon&style=plastic">|<img src="https://img.shields.io/badge/-Npm-CB3837.svg?logo=npm&style=plastic">|<img src="https://img.shields.io/badge/-Yarn-2C8EBB.svg?logo=yarn&style=plastic">||||
 
+## editor
+<img src="https://img.shields.io/badge/-Visualstudiocode-007ACC.svg?logo=visualstudiocode&style=plastic">|<img src="https://img.shields.io/badge/-Atom-66FF33.svg?logo=atom&style=plastic">|<img src="https://img.shields.io/badge/-Xcode-1575F9.svg?logo=xcode&style=plastic">|<img src="https://img.shields.io/badge/-AndroidStudio-000000.svg?logo=androidstudio&style=plastic">|<img src="https://img.shields.io/badge/-Markdown-000000.svg?logo=markdown&style=plastic">
+:--:|:--:|:--:|:--:|:--:|
 
 <!--
 ## template
@@ -36,8 +39,7 @@
 :--:|:--:|:--:|:--:|:--:|:--:|:--:
 ||||||
 
-## editor
-<img src="https://img.shields.io/badge/-Atom-66FF33.svg?logo=atom&style=plastic"> <img src="https://img.shields.io/badge/-Markdown-000000.svg?logo=markdown&style=plastic"> <img src="https://img.shields.io/badge/-Xcode-1575F9.svg?logo=xcode&style=plastic">
+
 
 ## cloud
 <img src="https://img.shields.io/badge/-Icloud-FFFFFF.svg?logo=icloud&style=plastic">　<img src="https://img.shields.io/badge/-Google%20drive-FFFFFF.svg?logo=google-drive&style=plastic">
