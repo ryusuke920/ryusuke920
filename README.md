@@ -22,7 +22,7 @@
 ## language
 <img src="https://img.shields.io/badge/-Python-FFFF00.svg?logo=Python&style=plastic">|<img src="https://img.shields.io/badge/-Css3-1572B6.svg?logo=css3&style=plastic">|<img src="https://img.shields.io/badge/-Html5-E34F26.svg?logo=html5&style=plastic">|<img src="https://img.shields.io/badge/-Java-FF6600.svg?logo=java&style=plastic">|<img src="https://img.shields.io/badge/-Javascript-3399FF.svg?logo=javascript&style=plastic">|<img src="https://img.shields.io/badge/-Json-000000.svg?logo=json&style=plastic">|<img src="https://img.shields.io/badge/-Kotlin-FF6666.svg?logo=kotlin&style=plastic">
 :--:|:--:|:--:|:--:|:--:|:--:|:--:
-||||||
+
 
 ## framework
 <img src="https://img.shields.io/badge/-Node.js-FFFF66.svg?logo=node.js&style=plastic">|<img src="https://img.shields.io/badge/-Mysql-4479A1.svg?logo=mysql&style=plastic">|<img src="https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=plastic">|<img src="https://img.shields.io/badge/-Jupyter-FFFF99.svg?logo=jupyter&style=plastic">|<img src="https://img.shields.io/badge/-Flask-000000.svg?logo=flask&style=plastic">|<img src="https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=plastic">|<img src="https://img.shields.io/badge/-React-61DAFB.svg?logo=react&style=plastic">
