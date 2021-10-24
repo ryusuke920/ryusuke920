@@ -19,21 +19,22 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=ryusuke920&row=1&column=8&theme=algolia)
 
+## language
+<img src="https://img.shields.io/badge/-Python-FFFF00.svg?logo=Python&style=plastic">|<img src="https://img.shields.io/badge/-Css3-1572B6.svg?logo=css3&style=plastic">|<img src="https://img.shields.io/badge/-Html5-E34F26.svg?logo=html5&style=plastic">|<img src="https://img.shields.io/badge/-Java-FF6600.svg?logo=java&style=plastic">|<img src="https://img.shields.io/badge/-Javascript-3399FF.svg?logo=javascript&style=plastic">|<img src="https://img.shields.io/badge/-Json-000000.svg?logo=json&style=plastic">|<img src="https://img.shields.io/badge/-Kotlin-FF6666.svg?logo=kotlin&style=plastic">
+:--:|:--:|:--:|:--:|:--:|:--:|:--:
+||||||
 
+## template
+<img src="https://img.shields.io/badge/-Node.js-FFFF66.svg?logo=node.js&style=plastic">|<img src="https://img.shields.io/badge/-Mysql-4479A1.svg?logo=mysql&style=plastic">|<img src="https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=plastic">|<img src="https://img.shields.io/badge/-Jupyter-FFFF99.svg?logo=jupyter&style=plastic">|<img src="https://img.shields.io/badge/-Flask-000000.svg?logo=flask&style=plastic">|<img src="https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=plastic">|<img src="https://img.shields.io/badge/-React-61DAFB.svg?logo=react&style=plastic">
+:--:|:--:|:--:|:--:|:--:|:--:|:--:
+<img src="https://img.shields.io/badge/-Nodemon-FFFF66.svg?logo=nodemon&style=plastic">|<img src="https://img.shields.io/badge/-Npm-CB3837.svg?logo=npm&style=plastic">|<img src="https://img.shields.io/badge/-Yarn-2C8EBB.svg?logo=yarn&style=plastic">||||
 
 
 <!--
-## language
-<img src="https://img.shields.io/badge/-Python-FFFF00.svg?logo=Python&style=plastic"> <img src="https://img.shields.io/badge/-Css3-1572B6.svg?logo=css3&style=plastic"> <img src="https://img.shields.io/badge/-Html5-E34F26.svg?logo=html5&style=plastic">
-<img src="https://img.shields.io/badge/-Java-FF6600.svg?logo=java&style=plastic"> <img src="https://img.shields.io/badge/-Javascript-3399FF.svg?logo=javascript&style=plastic"> <img src="https://img.shields.io/badge/-Json-000000.svg?logo=json&style=plastic">
-<img src="https://img.shields.io/badge/-Kotlin-FF6666.svg?logo=kotlin&style=plastic"> <img src="https://img.shields.io/badge/-Powershell-000000.svg?logo=powershell&style=plastic"> <img src="https://img.shields.io/badge/-R-276DC3.svg?logo=r&style=plastic">
-<img src="https://img.shields.io/badge/-Swift-FA7343.svg?logo=swift&style=plastic">
-
-## framework
-<img src="https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=plastic"> <img src="https://img.shields.io/badge/-Flask-000000.svg?logo=flask&style=plastic"> <img src="https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=plastic">
-<img src="https://img.shields.io/badge/-Jupyter-FFFF99.svg?logo=jupyter&style=plastic"> <img src="https://img.shields.io/badge/-Mysql-4479A1.svg?logo=mysql&style=plastic"> <img src="https://img.shields.io/badge/-Node.js-FFFF66.svg?logo=node.js&style=plastic">
-<img src="https://img.shields.io/badge/-Nodemon-FFFF66.svg?logo=nodemon&style=plastic"> <img src="https://img.shields.io/badge/-Npm-CB3837.svg?logo=npm&style=plastic"> <img src="https://img.shields.io/badge/-React-61DAFB.svg?logo=react&style=plastic">
-<img src="https://img.shields.io/badge/-Yarn-2C8EBB.svg?logo=yarn&style=plastic">
+## template
+||||||
+:--:|:--:|:--:|:--:|:--:|:--:|:--:
+||||||
 
 ## editor
 <img src="https://img.shields.io/badge/-Atom-66FF33.svg?logo=atom&style=plastic"> <img src="https://img.shields.io/badge/-Markdown-000000.svg?logo=markdown&style=plastic"> <img src="https://img.shields.io/badge/-Xcode-1575F9.svg?logo=xcode&style=plastic">
