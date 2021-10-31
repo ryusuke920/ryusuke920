@@ -29,17 +29,21 @@
 :--:|:--:|:--:|:--:|:--:|:--:|:--:
 <img src="https://img.shields.io/badge/-Nodemon-FFFF66.svg?logo=nodemon&style=plastic">|<img src="https://img.shields.io/badge/-Npm-CB3837.svg?logo=npm&style=plastic">|<img src="https://img.shields.io/badge/-Yarn-2C8EBB.svg?logo=yarn&style=plastic">||||
 
+<!--
 ## editor
 <img src="https://img.shields.io/badge/-VisualStudioCode-007ACC.svg?logo=VisualStudioCode&style=plastic">|<img src="https://img.shields.io/badge/-Atom-66FF33.svg?logo=atom&style=plastic">|<img src="https://img.shields.io/badge/-Xcode-1575F9.svg?logo=xcode&style=plastic">|<img src="https://img.shields.io/badge/-AndroidStudio-000000.svg?logo=androidstudio&style=plastic">|<img src="https://img.shields.io/badge/-Markdown-000000.svg?logo=markdown&style=plastic">
 :--:|:--:|:--:|:--:|:--:|
+-->
 
 ## SNS
 <img src="https://img.shields.io/badge/-Line-99FF66.svg?logo=line&style=plastic">|<img src="https://img.shields.io/badge/-Twitter-1DA1F2.svg?logo=twitter&style=plastic">|<img src="https://img.shields.io/badge/-Instagram-FF33CC.svg?logo=instagram&style=plastic">|<img src="https://img.shields.io/badge/-Github-181717.svg?logo=github&style=plastic">|<img src="https://img.shields.io/badge/-Qiita-55C500.svg?logo=qiita&style=plastic">|<img src="https://img.shields.io/badge/-Facebook-4172B8.svg?logo=facebook&style=plastic">
 :--:|:--:|:--:|:--:|:--:|:--:
 
+<!--
 ## game
 <img src="https://img.shields.io/badge/-Nintendo-99FFFF.svg?logo=nintendo&style=plastic">|<img src="https://img.shields.io/badge/-Nintendoswitch-E60012.svg?logo=nintendoswitch&style=plastic">|<img src="https://img.shields.io/badge/-Pokemon-3333CC.svg?logo=pokemon&style=plastic">|<img src="https://img.shields.io/badge/-Playstation-003791.svg?logo=playstation&style=plastic">|<img src="https://img.shields.io/badge/-Wii-CCFFFF.svg?logo=wii&style=plastic">|<img src="https://img.shields.io/badge/-Nintendogamecube-6A5FBB.svg?logo=nintendogamecube&style=plastic">
 :--:|:--:|:--:|:--:|:--:|:--:
+-->
 
 <!--
 ## template
