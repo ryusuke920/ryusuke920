@@ -23,11 +23,12 @@
 <img src="https://img.shields.io/badge/-Python-FFFF00.svg?logo=Python&style=plastic">|<img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=plastic">|<img src="https://img.shields.io/badge/-Html5-E34F26.svg?logo=html5&style=plastic">|<img src="https://img.shields.io/badge/-Java-FF6600.svg?logo=java&style=plastic">|<img src="https://img.shields.io/badge/-JavaScript-3399FF.svg?logo=javascript&style=plastic">|<img src="https://img.shields.io/badge/-Json-000000.svg?logo=json&style=plastic">|<img src="https://img.shields.io/badge/-Kotlin-FF6666.svg?logo=kotlin&style=plastic">
 :--:|:--:|:--:|:--:|:--:|:--:|:--:
 
-
+<!--
 ## framework
 <img src="https://img.shields.io/badge/-Node.js-FFFF66.svg?logo=node.js&style=plastic">|<img src="https://img.shields.io/badge/-Mysql-4479A1.svg?logo=mysql&style=plastic">|<img src="https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=plastic">|<img src="https://img.shields.io/badge/-Jupyter-FFFF99.svg?logo=jupyter&style=plastic">|<img src="https://img.shields.io/badge/-Flask-000000.svg?logo=flask&style=plastic">|<img src="https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=plastic">|<img src="https://img.shields.io/badge/-React-61DAFB.svg?logo=react&style=plastic">
 :--:|:--:|:--:|:--:|:--:|:--:|:--:
 <img src="https://img.shields.io/badge/-Nodemon-FFFF66.svg?logo=nodemon&style=plastic">|<img src="https://img.shields.io/badge/-Npm-CB3837.svg?logo=npm&style=plastic">|<img src="https://img.shields.io/badge/-Yarn-2C8EBB.svg?logo=yarn&style=plastic">||||
+-->
 
 <!--
 ## editor
@@ -35,9 +36,11 @@
 :--:|:--:|:--:|:--:|:--:|
 -->
 
+<!--
 ## SNS
 <img src="https://img.shields.io/badge/-Line-99FF66.svg?logo=line&style=plastic">|<img src="https://img.shields.io/badge/-Twitter-1DA1F2.svg?logo=twitter&style=plastic">|<img src="https://img.shields.io/badge/-Instagram-FF33CC.svg?logo=instagram&style=plastic">|<img src="https://img.shields.io/badge/-Github-181717.svg?logo=github&style=plastic">|<img src="https://img.shields.io/badge/-Qiita-55C500.svg?logo=qiita&style=plastic">|<img src="https://img.shields.io/badge/-Facebook-4172B8.svg?logo=facebook&style=plastic">
 :--:|:--:|:--:|:--:|:--:|:--:
+-->
 
 <!--
 ## game
